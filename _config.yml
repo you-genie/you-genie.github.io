@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Genne's Blog
+title: GENNE
 email: parvaavis863 at gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Love to dance, sing, drink, eat, and learn!
@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Genne Chung"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Studying for a Master's degree in KAIST"
+  bio    : "I Love Chocolate! :)"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
