@@ -3,6 +3,41 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## Bio
+* Bachelor's degree in KAIST, 2020.02
+* Studying for Master's degree in KAIST, 2020.02~
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## Likes
+Chocolate  
+Tea  
+Coffee  
+Vue.js  
+React - maybe  
+Lyrical jazz  
+Contemporary jazz  
+K-POP dancing  
+IZ*One YEAH  
+OMYGIRL  
+SInging  
+Macaroon & two-shots  
+Neat codes  
+
+## Dislikes
+something like this.  
+```java
+for (int i; i < n; i++) {
+    for (int j; j < m; j++) {
+        for (int k; k < l; k++) {
+            ...
+        }
+    }
+} 
+```
+or this.
+```javascript
+var a;
+var na_do_mo_la;
+var Why_namE_things_LIKE_this;
+```
+segmentation fault    
+C++....... sorry.... you're too hard  
