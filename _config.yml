@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Genne Chung"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio.jpg"
   bio    : "I Love Chocolate! :)"
   links:
     - label: "Website"
